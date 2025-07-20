@@ -30,9 +30,9 @@ In this program, the user is asked to enter three numbers, and the code determin
 This program simulates a simple traffic light system using a switch statement.
 - The user selects from three choices: `1` for Red, `2` for Yellow, and `3` for Green.
 - Based on the choice entered, the switch block prints the corresponding message:
-  - Red → STOP
-  - Yellow → SLOW DOWN
-  - Green → GO GO GO
+  - Red -- STOP
+  - Yellow -- SLOW DOWN
+  - Green -- GO GO GO
 
 This showcases how switch can be used instead of long if-else chains for multiple discrete choices.
 ---
